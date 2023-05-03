@@ -1,3 +1,5 @@
+// ini udah diubah
+
 const hitung = require("./luasKeliling.js");
 
 console.log("== 1. Luas Persegi ==");
